@@ -1,0 +1,7 @@
+.filters-container {
+    background-color: rgb(200, 200, 200);
+    padding: 5px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}

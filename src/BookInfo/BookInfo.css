@@ -1,0 +1,23 @@
+.book-box {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 1200px;
+}
+
+.image, .book-info {
+    width: 45%;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 40%;
+}
